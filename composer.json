@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "amanch/facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
@@ -7,8 +7,8 @@
     "license": "Facebook Platform",
     "authors": [
         {
-            "name": "Facebook",
-            "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
+            "name": "Aman Ch",
+            "email": "imponiaaman@gmail.com",
         }
     ],
     "require": {
