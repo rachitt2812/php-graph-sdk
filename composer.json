@@ -2,6 +2,7 @@
     "name": "amanch/facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
+     "version": "1.0.0",
     "type": "library",
     "homepage": "https://github.com/facebook/php-graph-sdk",
     "authors": [
